@@ -1,5 +1,5 @@
 # JavaSwing-Ambulance-Management
-This is a Ambulance Management System which develop with JavaSwing &amp; MySql Database. This is a basic level project of JavaSwing.
+This is an Ambulance Management System developed with Java Swing & MySql Database. This is a basic level project of Java Swing.
 
 <img src="https://github.com/shahi5472/JavaSwing-Ambulance-Management/blob/main/screenshots/Screenshot%202022-01-16%20at%2011.15.28%20PM.png" width="60%" height="80%">
 
